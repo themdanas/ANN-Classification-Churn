@@ -1,0 +1,7 @@
+/dl_env
+/.nonadmin
+/logs
+/onehotencoder_geo.pkl
+/model.h5
+/label_encoder_gender.pkl
+/scaler.pkl
